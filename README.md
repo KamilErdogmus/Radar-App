@@ -35,7 +35,7 @@ The application uses the [Flight Radar API](https://rapidapi.com/apidojo/api/fli
 
 ## Deployment
 
-The project is deployed and can be accessed [here](https://sparkling-mandazi-aca5c4.netlify.app/).
+The project is deployed and can be accessed [here](https://sparkling-mandazi-aca5c4.netlify.app/). For the project to run smoothly, please follow the installation steps below to set it up locally.
 
 ## Installation
 
