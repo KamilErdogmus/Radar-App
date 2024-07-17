@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header className="d-flex justify-content-around  mt-1 align-items-center">
       <div className="d-flex pointer gap-3">
-        <img height={"50px"} src="/src/assets/plane-logo.png" alt="" />
+        <img height={"50px"} src="plane-logo.png" alt="" />
         <h1>RADAR APP</h1>
       </div>
 
